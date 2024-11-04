@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Harpreet Kaur!
+- 👀 I’m interested in building innovative software solutions, enhancing online shopping experiences, and working on impactful technology projects. I’m also passionate about the intersection of AI and product management.
+- 🌱 I’m currently learning Business Analytics and exploring the responsible use of Generative AI. I recently attended DevFest Silicon Valley 2024, where I was inspired by the discussions on making AI more sustainable and fair.
+- 💞️ I’m looking to collaborate on open-source projects, data-driven software testing, and AI research that brings real-world value.
+- 📫 How to reach me: You can reach me via LinkedIn or through my email harpreet2608@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love volunteering at Toastmasters, where I practice public speaking, and I’m fascinated by visiting places like the Intel Museum to learn about tech history!
